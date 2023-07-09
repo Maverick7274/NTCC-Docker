@@ -40,7 +40,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <p>This is a Test for Docker</p>
+        <p>This is a dummy website made with React.js, fully <a href='https://www.docker.com/' target='_blank' rel='noreferrer'>Dockerized</a> and Deployed using <a href='https://pages.github.com/' target='_blank' rel='noreferrer'>GitHub Pages</a></p>
         <div className='link-tab'>
           <a href='https://www.overleaf.com/read/rzrdkkhdgpph' rel='noreferrer' target='_blank'>
             Overleaf Report
